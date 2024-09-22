@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(226, 226, 198);
+}
+h1, h2 {
+    text-align: center;
+    color: rgb(136, 34, 34);
+    text-shadow:#FC0 1px 0 10px;;
+    font-family: Impact, fantasy;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 50px;
+}
+div {
+    text-align: center;
+}
+a, button {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(99, 20, 20);
+    font-weight: bolder;
+    text-shadow: #FC0 1px 0 10px;
+}
+p, #button{
+    font-size: 20px;
+}
